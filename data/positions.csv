@@ -1,0 +1,4 @@
+ticker,opening_time,volume,action,opening_price,opening_exchange_rate,last_modified
+4GLD.DE,2026-02-02 09:22:00+01:00,0.3492,position_open,125.98,4.2316,2026-02-05 17:17:54.255209+01:00
+IUSQ.DE,2026-02-02 09:04:00+01:00,0.6275,position_open,93.27,4.235,2026-02-05 17:17:54.255287+01:00
+ETFBTBSP.PL,2026-02-02 09:05:00+01:00,0.6275,position_open,229.37,,2026-02-05 17:17:54.255336+01:00
